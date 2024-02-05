@@ -1,5 +1,5 @@
 title: Manoj Athreya A
-logo: images/Manoj.jpg
-#description: text below image
+logo: /assets/img/headshot_circle.png
+description: Machine Learning Engineer
 show_downloads: false
-theme: jekyll-theme-cayman
+theme:  jekyll-theme-minimal
