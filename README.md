@@ -1,125 +1,22 @@
-# Manoj Athreya A's Machine Learning Engineer Portfolio
-
-![Manoj Athreya A](/images/Manoj.jpg)
-
-##MACHINE LEARNING ENGINEER
-
-Welcome to my GitHub repository! I am an Active Learner seeking to expand my knowledge base in Natural Language Programming, Machine Learning and Artificial Intelligence.
+I am an Active Learner seeking to expand my knowledge base in Natural Language Programming, Machine Learning and Artificial Intelligence.
 
 ## Contact Information
 
 - **Phone:** 3439871466
 - **Email:** manoj2375@gmail.com
-- **LinkedIn:** [Manoj Athreya A on LinkedIn](https://www.linkedin.com/in/manojathreyaa)
-- **GitHub:** [Manoj Athreya A on GitHub](https://github.com/ManojAthreya)
-- **Hugging Face:** [Manoj Athreya A on Hugging Face](https://huggingface.co/Villian7)
-
-## Skills and Abilities
-
-### Programming Languages
-- Python, SQL, C++, Java, R, Javascript
-
-### Visualization Tools
-- Matplotlib, Seaborn, Plotly, Tableau, Power BI
-
-## Skills and Abilities
-
-### Programming Languages
-- Python
-- SQL (MySQL, OracleDB)
-- NoSQL (MongoDB)
-- C++
-- Java
-- JavaScript
-
-### Machine Learning Frameworks
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-
-### Deep Learning
-- Neural Networks
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs)
-- Transfer Learning
-
-### Natural Language Processing (NLP)
-- BERT, GPT-3.5, GPT-4, Llama2, Mistral, Zephyr, Phi2, Mixtral 8x7B
-- Named Entity Recognition (NER)
-- Sentiment Analysis
-- Text Classification
-- Summarization
-- Code Synthesis
-
-### Data Science Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
-
-### Visualization Tools
-- Power BI
-- Tableau
-
-### Feature Engineering
-- Feature Extraction
-- Handling Missing Data
-- Outlier Detection
-
-### Machine Learning Algorithms
-- Support Vector Machines (SVM)
-- Decision Trees
-- Random Forests
-- Clustering (K-means)
-- XG Boost
-- Ensemble Methods
-
-### Model Deployment
-- Docker
-- AWS (S3, EC2, Lambda, Fargate, Bedrock, Runner, DynamoDB, RedShift)
-- FastAPI
-- Flask
-- Kubernetes
-
-### Big Data Technologies
-- Hadoop
-- Spark
-
-### Continuous Integration/Continuous Deployment (CI/CD)
-- Jenkins
-- GitLab CI/CD
-- GitHub Actions
-
-### Version Control
-- Git
-
-### Cloud Services
-- AWS Cloud Services (S3, EC2, Lambda, SageMaker)
-- Azure, Google Cloud (optional)
-
-### MLOps
-- MLFlow
-- Weights & Biases
-- DagsHub
-
-### REST API Development
-- FAST API
-- Postman & Swagger for API documentation
-
+- **LinkedIn:** [😄](https://www.linkedin.com/in/manojathreyaa)
+- **GitHub:** [🤩](https://github.com/ManojAthreya)
+- **Hugging Face:** [🤗](https://huggingface.co/Villian7)
 
 ## Education
 
 - **Master’s of Computer Science**
-  - University Of Ottawa, Canada
-  - Grade: A+
+  - University Of Ottawa, Canada       Grade - A+        September 2022 - August 2024
   - Courses: Machine Learning, Natural Language Processing, Virtual Assistants, Data Management, Distributed Database & Transaction Processing, Knowledge Representation, E-Commerce.
-  - 09/2022 - 08/2024
 
 - **Bachelor of Engineering (B.E)**
-  - Visvesvaraya Technological University, India
-  - 8.23/10.0
-  - 08/2016 - 08/2020
+  - Visvesvaraya Technological University, India        GPA: 8.23 / 10.0          August 2016 - August 2020
+  - Courses: Machine Learning, Natural Language Processing, Operating Systems, Networks.
 
 ## Work Experience
 
@@ -143,6 +40,55 @@ Tata Consultancy Services, Bengaluru, India
 - Product Design Interactions with business stakeholders to build new features using Java & Azure DB.
 - Programmed the workflow for creating Rest-APIs for the web services in XML using Postman & Swagger.
 - Followed Agile Methodology which improved the code quality and decreased the software bugs by 15%.
+
+## Skills and Abilities
+
+### Programming Languages
+- Python, SQL (MySQL, OracleDB), NoSQL (MongoDB), C++, Java, JavaScript
+
+### Machine Learning Frameworks
+- PyTorch, TensorFlow, Scikit-Learn, MLOps, LLMOps
+
+### Deep Learning
+- Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transfer Learning
+
+### Natural Language Processing (NLP)
+- BERT, GPT-3.5, GPT-4, Llama2, Mistral, Zephyr, Phi2, Mixtral 8x7B
+- Named Entity Recognition (NER), Sentiment Analysis, Text Classification, Summarization, Code Synthesis
+
+### Data Science Libraries
+- NumPy, Pandas, Matplotlib, Seaborn, Plotly
+
+### Visualization Tools
+- Power BI, Tableau
+
+### Feature Engineering
+- Feature Extraction, Handling Missing Data, Outlier Detection
+
+### Machine Learning Algorithms
+- Support Vector Machines (SVM), Decision Trees, Random Forests, Clustering (K-means), XG Boost, Ensemble Methods
+
+### Model Deployment
+- Docker, AWS (S3, EC2, Lambda, Fargate, Bedrock, Runner, DynamoDB, RedShift), FastAPI, Flask, Kubernetes
+
+### Cloud Services
+- AWS Cloud Services (S3, EC2, Lambda, SageMaker)
+- Azure, Google Cloud (optional)
+
+### MLOps
+- MLFlow
+- Weights & Biases
+- DagsHub
+
+### REST API Development
+- FAST API
+- Postman & Swagger for API documentation
+
+### Big Data Technologies
+- Hadoop, Spark
+
+### Version Control
+- Git
 
 ## Projects
 
